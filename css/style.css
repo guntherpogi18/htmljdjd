@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     padding: 0;
     background-color:
-    grey
+    black
 }
 
 .resume {
@@ -19,7 +19,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 20px;
-    background-color: pink;
+    background-color: grey;
     border-bottom: 2px solid black;
 }
 
